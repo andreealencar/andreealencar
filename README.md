@@ -1,6 +1,6 @@
 ## Hi, I'm André
 
-Software developer and game development enthusiast, from João Pessoa, Brazil. Currently working at [@fractaltecnologia](https://github.com/fractaltecnologia/).
+Software developer and game development enthusiast, from João Pessoa, Brazil. Currently working at [@Local Labs](https://locallabs.com/).
 
 
 ## Languages and Tools:
