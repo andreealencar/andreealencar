@@ -18,9 +18,6 @@ Software developer and game development enthusiast, from João Pessoa, Brazil. C
 
 ## Contact:
 
-<a href="https://twitter.com/andreealencar">
-  <img width="27px" style="margin: 0 2px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/andreealencar/">
   <img width="27px" style="margin: 0 5px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
